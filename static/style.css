@@ -1,0 +1,13 @@
+* {
+    /* Removes extra spacing from all elements on the page */
+    padding: 0;
+    margin: 0;
+    font-size: 24pt;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+/* Put your styles BELOW this line */
